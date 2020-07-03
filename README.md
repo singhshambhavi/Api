@@ -5,13 +5,13 @@ Language:
 Python
 
 Installations: 
-pip install django
+pip install django, 
 pip install djangorestframework
 
 System Used: Mac Book Air 2017
 
 Software Used: 
-VS Code
+VS Code, 
 Postman
 
 Project Setup : https://www.django-rest-framework.org/tutorial/quickstart/
