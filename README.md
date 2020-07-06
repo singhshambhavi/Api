@@ -6,7 +6,8 @@ Python
 
 Installations: 
 pip install django, 
-pip install djangorestframework
+pip install djangorestframework,
+pip install djoser
 
 System Used: Mac Book Air 2017
 
