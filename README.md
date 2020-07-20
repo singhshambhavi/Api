@@ -9,7 +9,7 @@ pip install django,
 pip install djangorestframework,
 pip install djoser
 
-System Used: Mac Book Air 2017
+System Used: Mac Book Air 2015
 
 Software Used: 
 VS Code, 
